@@ -1,4 +1,4 @@
-#Smart Campus Navigation and Parking System (Without Sensors)
+#Smart Campus Navigation and Parking System 
 
  # Introduction
 Large campuses such as colleges, universities, and institutions often create difficulties for students, staff, and visitors in locating classrooms, laboratories, offices, and parking areas. Traditional signboards are not always sufficient and may lead to confusion and time wastage.
